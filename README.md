@@ -44,7 +44,7 @@
             <h2>Contatti</h2>
             <p>Se vuoi collaborare o semplicemente fare due chiacchiere, non esitare a contattarmi!</p>
             <p>Email: <a href="mailto:tuo@email.com">tuo@email.com</a></p>
-            <p>LinkedIn: <a href="https://linkedin.com/in/tuo-profilo" target="_blank">linkedin.com/in/tuo-profilo</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/cristian-borsan/" target="_blank">linkedin.com/in/tuo-profilo</a></p>
         </section>
         <footer>
             <p>&copy; 2025 Cristian Borsan. Tutti i diritti riservati.</p>
