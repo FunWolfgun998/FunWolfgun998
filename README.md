@@ -1,52 +1,79 @@
-<div class="container">
-            <h1>Il Tuo Nome</h1>
-            <p class="bio">Una breve bio su di te e i tuoi interessi</p>
+   <div class="container">
+        <header>
+            <img src="https://avatars.githubusercontent.com/u/your-profile-id" alt="Your photo">
+            <h1>Your Name</h1>
+            <p class="bio">A short bio about yourself and your interests</p>
             <p>
-                <a href="https://github.com/tuo-username" target="_blank">GitHub</a> | 
-                <a href="https://linkedin.com/in/tuo-profilo" target="_blank">LinkedIn</a> | 
-                <a href="mailto:tuo@email.com">Email</a>
+                <a href="https://github.com/your-username" target="_blank">GitHub</a> | 
+                <a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn</a> | 
+                <a href="mailto:your@email.com">Email</a>
             </p>
+        </header>
         <section id="about">
-            <h2>Chi Sono</h2>
-            <p>Qui puoi scrivere una descrizione più dettagliata su di te, le tue competenze, esperienze e interessi.</p>
-            <p>Esempio: Sono uno sviluppatore web con esperienza in HTML, CSS, JavaScript e framework moderni come React e Vue.js.</p>
+            <h2>About Me</h2>
+            <p>Here you can write a more detailed description about yourself, your skills, experience, and interests.</p>
+            <p>Example: I'm a web developer with experience in HTML, CSS, JavaScript and modern frameworks like React and Vue.js.</p>
         </section>
         <section id="projects">
-            <h2>Progetti</h2>
+            <h2>Featured Projects</h2>
             <div class="projects">
                 <div class="project">
-                    <h3>Wolf</h3>
-                    <p>Compilatore per il mio linguaggio di programmazione</p>
-                    <a href="https://github.com/tuo-username/repo1" target="_blank">Vedi su GitHub</a>
+                    <h3>Project Name 1</h3>
+                    <p>Short description of the project and technologies used.</p>
+                    <a href="https://github.com/your-username/repo1" target="_blank">View on GitHub</a>
                 </div>
                 <div class="project">
-                    <h3>Nome Progetto 2</h3>
-                    <p>Descrizione breve del progetto e delle tecnologie utilizzate.</p>
-                    <a href="https://github.com/tuo-username/repo2" target="_blank">Vedi su GitHub</a>
+                    <h3>Project Name 2</h3>
+                    <p>Short description of the project and technologies used.</p>
+                    <a href="https://github.com/your-username/repo2" target="_blank">View on GitHub</a>
                 </div>
                 <div class="project">
-                    <h3>Nome Progetto 3</h3>
-                    <p>Descrizione breve del progetto e delle tecnologie utilizzate.</p>
-                    <a href="https://github.com/tuo-username/repo3" target="_blank">Vedi su GitHub</a>
+                    <h3>Project Name 3</h3>
+                    <p>Short description of the project and technologies used.</p>
+                    <a href="https://github.com/your-username/repo3" target="_blank">View on GitHub</a>
                 </div>
             </div>
         </section>
         <section id="skills">
-            <h2>Competenze</h2>
-            <ul>
-                <li>Linguaggi: HTML, CSS, JavaScript, Python</li>
-                <li>Framework: React, Vue.js, Django</li>
-                <li>Strumenti: Git, Docker, VS Code</li>
-                <li>Altre competenze: UI/UX Design, SEO</li>
-            </ul>
+            <h2>Skills</h2>
+            <div class="skills-container">
+                <div class="skill-category">
+                    <h3>Programming Languages</h3>
+                    <ul>
+                        <li>JavaScript (ES6+)</li>
+                        <li>Python</li>
+                        <li>HTML/CSS</li>
+                        <li>SQL</li>
+                    </ul>
+                </div>
+                <div class="skill-category">
+                    <h3>Frameworks & Libraries</h3>
+                    <ul>
+                        <li>React</li>
+                        <li>Node.js</li>
+                        <li>Express</li>
+                        <li>Django</li>
+                    </ul>
+                </div>
+                <div class="skill-category">
+                    <h3>Tools & Technologies</h3>
+                    <ul>
+                        <li>Git & GitHub</li>
+                        <li>Docker</li>
+                        <li>VS Code</li>
+                        <li>AWS</li>
+                    </ul>
+                </div>
+            </div>
         </section>
         <section id="contact">
-            <h2>Contatti</h2>
-            <p>Se vuoi collaborare o semplicemente fare due chiacchiere, non esitare a contattarmi!</p>
-            <p>Email: <a href="mailto:tuo@email.com">tuo@email.com</a></p>
-            <p>LinkedIn: <a href="https://www.linkedin.com/in/cristian-borsan/" target="_blank">linkedin.com</a></p>
+            <h2>Get In Touch</h2>
+            <p>If you'd like to collaborate or just chat, feel free to reach out!</p>
+            <p>Email: <a href="mailto:your@email.com">your@email.com</a></p>
+            <p>LinkedIn: <a href="https://linkedin.com/in/your-profile" target="_blank">linkedin.com/in/your-profile</a></p>
+            <p>Twitter: <a href="https://twitter.com/your-handle" target="_blank">@your-handle</a></p>
         </section>
         <footer>
-            <p>&copy; 2025 Cristian Borsan. Tutti i diritti riservati.</p>
+            <p>&copy; 2023 Your Name. All rights reserved.</p>
         </footer>
-<a href="https://www.linkedin.com/in/cristian-borsan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+    </div>
