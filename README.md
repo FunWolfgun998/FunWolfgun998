@@ -15,8 +15,8 @@
             <h2>Progetti</h2>
             <div class="projects">
                 <div class="project">
-                    <h3>Nome Progetto 1</h3>
-                    <p>Descrizione breve del progetto e delle tecnologie utilizzate.</p>
+                    <h3>Wolf</h3>
+                    <p>Compilatore per il mio linguaggio di programmazione</p>
                     <a href="https://github.com/tuo-username/repo1" target="_blank">Vedi su GitHub</a>
                 </div>
                 <div class="project">
@@ -47,6 +47,6 @@
             <p>LinkedIn: <a href="https://linkedin.com/in/tuo-profilo" target="_blank">linkedin.com/in/tuo-profilo</a></p>
         </section>
         <footer>
-            <p>&copy; 2023 Il Tuo Nome. Tutti i diritti riservati.</p>
+            <p>&copy; 2025 Cristian Borsan. Tutti i diritti riservati.</p>
         </footer>
 <a href="https://www.linkedin.com/in/cristian-borsan/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
