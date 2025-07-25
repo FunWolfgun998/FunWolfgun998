@@ -1,6 +1,4 @@
-<title>Il Mio Profilo GitHub</title>
-    <div class="container">
-            <img src="https://avatars.githubusercontent.com/u/your-profile-id" alt="La tua foto">
+<div class="container">
             <h1>Il Tuo Nome</h1>
             <p class="bio">Una breve bio su di te e i tuoi interessi</p>
             <p>
