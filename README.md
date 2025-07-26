@@ -67,19 +67,29 @@
 <hr>
 
 <h2 align="center" style="color: #9D4EDD;">👨‍💻 Repositories 👨‍💻</h2>
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px; width: 100%; max-width: 900px; margin: 0 auto;">
-  <a href="https://github.com/FunWolfgun998/Wolf" title="Wolf" style="display: block; height: 100%;">
-    <img style="width: 100%; height: 115px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Wolf&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
-  </a>
-  <a href="https://github.com/FunWolfgun998/RFID-Hero" title="RFID-Hero" style="display: block; height: 100%;">
-    <img style="width: 100%; height: 115px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=RFID-Hero&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
-  </a>
-  <a href="https://github.com/FunWolfgun998/Project3" title="Project 3">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project3&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
-  </a>
-  <a href="https://github.com/FunWolfgun998/Project4" title="Project 4">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project4&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
-  </a>
+<div align="center" style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 15px; width: 100%; margin: 0 auto;">
+  <!-- Prima coppia -->
+  <div style="width: 100%; aspect-ratio: 3/1; overflow: hidden;">
+    <a href="https://github.com/FunWolfgun998/Wolf" title="Wolf" style="display: block; height: 100%;">
+      <img style="width: 100%; height: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Wolf&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
+    </a>
+  </div>
+  <div style="width: 100%; aspect-ratio: 3/1; overflow: hidden;">
+    <a href="https://github.com/FunWolfgun998/RFID-Hero" title="RFID-Hero" style="display: block; height: 100%;">
+      <img style="width: 100%; height: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=RFID-Hero&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
+    </a>
+  </div>
+  <!-- Seconda coppia (esempio) -->
+  <div style="width: 100%; aspect-ratio: 3/1; overflow: hidden;">
+    <a href="https://github.com/FunWolfgun998/Project3" title="Project 3" style="display: block; height: 100%;">
+      <img style="width: 100%; height: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project3&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
+    </a>
+  </div>
+  <div style="width: 100%; aspect-ratio: 3/1; overflow: hidden;">
+    <a href="https://github.com/FunWolfgun998/Project4" title="Project 4" style="display: block; height: 100%;">
+      <img style="width: 100%; height: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project4&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
+    </a>
+  </div>
 </div>
 <br/><br/>
 
