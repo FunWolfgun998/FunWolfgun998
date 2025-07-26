@@ -68,16 +68,21 @@
 
 <h2 align="center" style="color: #9D4EDD;">👨‍💻 Repositories 👨‍💻</h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/FunWolfgun998/Wolf" title="Wolf"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Wolf&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD"></a>
-  <a align="right" href="https://github.com/FunWolfgun998/RFID-Hero" title="RFID-Hero"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=RFID-Hero&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD"></a>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <a href="https://github.com/FunWolfgun998/Wolf" title="Wolf">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Wolf&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
+  </a>
+  <a href="https://github.com/FunWolfgun998/RFID-Hero" title="RFID-Hero">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=RFID-Hero&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
+  </a>
+  <a href="https://github.com/FunWolfgun998/Project3" title="Project 3">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project3&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
+  </a>
+  <a href="https://github.com/FunWolfgun998/Project4" title="Project 4">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project4&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
+  </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/FunWolfgun998/[THIRD_REPO]" title="[THIRD_REPO]"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=[THIRD_REPO]&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD"></a>
-  <a align="right" href="https://github.com/FunWolfgun998/[FOURTH_REPO]" title="[FOURTH_REPO]"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=[FOURTH_REPO]&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/FunWolfgun998?tab=repositories" title="Show Repositories" style="color: #9D4EDD;">🔎 Show More 🔍</a>
