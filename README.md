@@ -74,14 +74,12 @@
   <a href="https://github.com/FunWolfgun998/RFID-Hero" title="RFID-Hero" style="display: block; height: 100%;">
     <img style="width: 100%; height: 115px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=RFID-Hero&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
   </a>
-  <!--
   <a href="https://github.com/FunWolfgun998/Project3" title="Project 3">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project3&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
   </a>
   <a href="https://github.com/FunWolfgun998/Project4" title="Project 4">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project4&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
   </a>
-  -->
 </div>
 <br/><br/>
 
