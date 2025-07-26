@@ -67,12 +67,12 @@
 <hr>
 
 <h2 align="center" style="color: #9D4EDD;">👨‍💻 Repositories 👨‍💻</h2>
-<br><div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; width: 100%;">
-  <a href="https://github.com/FunWolfgun998/Wolf" title="Wolf" style="flex: 1 1 45%; min-width: 300px; max-width: 400px;">
-    <img height="115" style="width: 100%; height: auto; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Wolf&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px; width: 100%; max-width: 900px; margin: 0 auto;">
+  <a href="https://github.com/FunWolfgun998/Wolf" title="Wolf" style="display: block; height: 100%;">
+    <img style="width: 100%; height: 115px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Wolf&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
   </a>
-  <a href="https://github.com/FunWolfgun998/RFID-Hero" title="RFID-Hero" style="flex: 1 1 45%; min-width: 300px; max-width: 400px;">
-    <img height="115" style="width: 100%; height: auto; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=RFID-Hero&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
+  <a href="https://github.com/FunWolfgun998/RFID-Hero" title="RFID-Hero" style="display: block; height: 100%;">
+    <img style="width: 100%; height: 115px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=RFID-Hero&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
   </a>
   <!--
   <a href="https://github.com/FunWolfgun998/Project3" title="Project 3">
