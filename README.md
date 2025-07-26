@@ -81,7 +81,7 @@
   </div>
 
   <!-- Seconda riga -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px; margin-bottom: 15px;">
     <a href="https://github.com/FunWolfgun998/Project3" title="Project 3" style="flex: 1 1 495px; max-width: 495px; min-width: 300px;">
       <img width="495" height="195" style="width: 100%; height: 195px; object-fit: cover;" 
            src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project3&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
@@ -91,7 +91,23 @@
            src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project4&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
     </a>
   </div>
+
+  <!-- Terza riga -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px;">
+    <a href="https://github.com/FunWolfgun998/Project5" title="Project 5" style="flex: 1 1 495px; max-width: 495px; min-width: 300px;">
+      <img width="495" height="195" style="width: 100%; height: 195px; object-fit: cover;" 
+           src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project5&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
+    </a>
+    <a href="https://github.com/FunWolfgun998/Project6" title="Project 6" style="flex: 1 1 495px; max-width: 495px; min-width: 300px;">
+      <img width="495" height="195" style="width: 100%; height: 195px; object-fit: cover;" 
+           src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project6&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
+    </a>
+  </div>
 </div>
+
+<h4 align="center" style="margin-top: 20px;">
+  <a href="https://github.com/FunWolfgun998?tab=repositories" title="Show Repositories" style="color: #9D4EDD; text-decoration: none;">🔎 Show More 🔍</a>
+</h4>
 <br/><br/>
 
 <h4 align="center">
