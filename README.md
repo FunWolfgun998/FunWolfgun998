@@ -55,9 +55,9 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunWolfgun998&hide=c%23,Objective-C,Objective-C%2b%2b,Cuda&title_color=9D4EDD&text_color=ffffff&icon_color=9D4EDD&bg_color&langs_count=8&layout=compact&border_color=9D4EDD&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunWolfgun998&hide=c%23,Objective-C,Objective-C%2b%2b,Cuda&title_color=9D4EDD&text_color=ffffff&icon_color=9D4EDD&bg_color=1A0933&langs_count=8&layout=compact&border_color=9D4EDD&hide_border=true&size_weight=0.5&count_weight=0.5" />
+</a>
   </div>
   <br>
 
