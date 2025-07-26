@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Here+FunWolfgun998+!;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Here+FunWolfgun!;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -33,7 +33,6 @@
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <!--<code><img title="Django" height="25" src="images/django.png"></code>-->
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <!--<code><img title="SASS" height="25" src="images/sass.svg"></code>-->
@@ -56,6 +55,7 @@
   <!--<code><img title="npm" height="25" src="images/npm.svg"></code>-->
   <!--<code><img title="PHP" height="25" src="images/php.svg"></code>-->
   <!--<code><img title="Flask" height="25" src="images/flask.png"></code>-->
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
 </p>
 <hr>
 
@@ -63,9 +63,7 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=FunWolfgun998&theme=react&border=61dafb&hide_border=true" alt="FunWolfgun998" />
-    </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FunWolfgun998&theme=dark&hide_border=true&border_radius=0&fire=DF28FF&ring=902CD7&dates=902CD7&currStreakLabel=DF28FF" alt="GitHub Streak" /></a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=FunWolfgun998&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
