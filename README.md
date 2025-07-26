@@ -67,24 +67,28 @@
 <hr>
 
 <h2 align="center" style="color: #9D4EDD;">👨‍💻 Repositories 👨‍💻</h2>
-<div align="center" style="width: 1010px; margin: 0 auto;">
+<div style="max-width: 1010px; margin: 0 auto;">
   <!-- Prima riga -->
-  <div style="display: flex; justify-content: space-between; margin-bottom: 15px;">
-    <a href="https://github.com/FunWolfgun998/Wolf" title="Wolf">
-      <img width="495" height="195" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Wolf&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px; margin-bottom: 15px;">
+    <a href="https://github.com/FunWolfgun998/Wolf" title="Wolf" style="flex: 1 1 495px; max-width: 495px; min-width: 300px;">
+      <img width="495" height="195" style="width: 100%; height: 195px; object-fit: cover;" 
+           src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Wolf&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
     </a>
-    <a href="https://github.com/FunWolfgun998/RFID-Hero" title="RFID-Hero">
-      <img width="495" height="195" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=RFID-Hero&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
+    <a href="https://github.com/FunWolfgun998/RFID-Hero" title="RFID-Hero" style="flex: 1 1 495px; max-width: 495px; min-width: 300px;">
+      <img width="495" height="195" style="width: 100%; height: 195px; object-fit: cover;" 
+           src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=RFID-Hero&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
     </a>
   </div>
 
   <!-- Seconda riga -->
-  <div style="display: flex; justify-content: space-between;">
-    <a href="https://github.com/FunWolfgun998/Project3" title="Project 3">
-      <img width="495" height="195" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project3&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px;">
+    <a href="https://github.com/FunWolfgun998/Project3" title="Project 3" style="flex: 1 1 495px; max-width: 495px; min-width: 300px;">
+      <img width="495" height="195" style="width: 100%; height: 195px; object-fit: cover;" 
+           src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project3&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
     </a>
-    <a href="https://github.com/FunWolfgun998/Project4" title="Project 4">
-      <img width="495" height="195" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project4&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
+    <a href="https://github.com/FunWolfgun998/Project4" title="Project 4" style="flex: 1 1 495px; max-width: 495px; min-width: 300px;">
+      <img width="495" height="195" style="width: 100%; height: 195px; object-fit: cover;" 
+           src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project4&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
     </a>
   </div>
 </div>
