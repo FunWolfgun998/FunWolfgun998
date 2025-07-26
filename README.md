@@ -64,7 +64,7 @@
 <p align=center>
   <div align=center>
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=FunWolfgun998&theme=dark&border_radius=9&card_width=390&card_height=170&fire=DF28FF&ring=902CD7&dates=902CD7&currStreakLabel=DF28FF" alt="GitHub Streak" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com?user=FunWolfgun998&theme=dark&border_radius=9&card_width=&card_height=&fire=DF28FF&ring=902CD7&dates=902CD7&currStreakLabel=DF28FF" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=FunWolfgun998&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
