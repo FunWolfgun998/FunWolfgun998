@@ -25,7 +25,7 @@
 </p>
 
 <hr>
-<h2 align="center" style="color: #9D4EDD;">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center" style="color: #9D4EDD;">🔥 Languages, Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
@@ -75,12 +75,14 @@
   <a href="https://github.com/FunWolfgun998/RFID-Hero" title="RFID-Hero">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=RFID-Hero&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
   </a>
+  <!--
   <a href="https://github.com/FunWolfgun998/Project3" title="Project 3">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project3&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
   </a>
   <a href="https://github.com/FunWolfgun998/Project4" title="Project 4">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project4&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
   </a>
+  -->
 </div>
 <br/><br/>
 
