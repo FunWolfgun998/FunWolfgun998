@@ -67,49 +67,10 @@
 <hr>
 
 <h2 align="center" style="color: #9D4EDD;">👨‍💻 Repositories 👨‍💻</h2>
-<div style="max-width: 1010px; margin: 0 auto;">
-  <!-- Prima riga -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px; margin-bottom: 15px;">
-    <a href="https://github.com/FunWolfgun998/Wolf" title="Wolf" style="flex: 1 1 495px; max-width: 495px; min-width: 300px;">
-      <img width="495" height="195" style="width: 100%; height: 195px; object-fit: cover;" 
-           src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Wolf&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
-    </a>
-    <a href="https://github.com/FunWolfgun998/RFID-Hero" title="RFID-Hero" style="flex: 1 1 495px; max-width: 495px; min-width: 300px;">
-      <img width="495" height="195" style="width: 100%; height: 195px; object-fit: cover;" 
-           src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=RFID-Hero&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
-    </a>
-  </div>
-
-  <!-- Seconda riga -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px; margin-bottom: 15px;">
-    <a href="https://github.com/FunWolfgun998/Project3" title="Project 3" style="flex: 1 1 495px; max-width: 495px; min-width: 300px;">
-      <img width="495" height="195" style="width: 100%; height: 195px; object-fit: cover;" 
-           src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project3&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
-    </a>
-    <a href="https://github.com/FunWolfgun998/Project4" title="Project 4" style="flex: 1 1 495px; max-width: 495px; min-width: 300px;">
-      <img width="495" height="195" style="width: 100%; height: 195px; object-fit: cover;" 
-           src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project4&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
-    </a>
-  </div>
-
-  <!-- Terza riga -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px;">
-    <a href="https://github.com/FunWolfgun998/Project5" title="Project 5" style="flex: 1 1 495px; max-width: 495px; min-width: 300px;">
-      <img width="495" height="195" style="width: 100%; height: 195px; object-fit: cover;" 
-           src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project5&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
-    </a>
-    <a href="https://github.com/FunWolfgun998/Project6" title="Project 6" style="flex: 1 1 495px; max-width: 495px; min-width: 300px;">
-      <img width="495" height="195" style="width: 100%; height: 195px; object-fit: cover;" 
-           src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project6&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
-    </a>
-  </div>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/FunWolfgun998/Wolf" title="Wolf"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Wolf&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD"></a>
+  <a align="right" href="https://github.com/FunWolfgun998/RFID-Hero" title="RFID Hero"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=RFID-Hero&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD"></a>
 </div>
-
-<h4 align="center" style="margin-top: 20px;">
-  <a href="https://github.com/FunWolfgun998?tab=repositories" title="Show Repositories" style="color: #9D4EDD; text-decoration: none;">🔎 Show More 🔍</a>
-</h4>
-<br/><br/>
-
 <h4 align="center">
   <a href="https://github.com/FunWolfgun998?tab=repositories" title="Show Repositories" style="color: #9D4EDD;">🔎 Show More 🔍</a>
 </h4>
