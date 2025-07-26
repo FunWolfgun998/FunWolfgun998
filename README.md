@@ -68,9 +68,10 @@
 
 <h2 align="center" style="color: #9D4EDD;">👨‍💻 Repositories 👨‍💻</h2>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/FunWolfgun998/Wolf" title="Wolf"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Wolf&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD"></a>
-  <a align="right" href="https://github.com/FunWolfgun998/RFID-Hero" title="RFID Hero"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=RFID-Hero&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD"></a>
+  <a align="left" href="https://github.com/FunWolfgun998/Wolf" title="Wolf"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Wolf&theme=dark&hide_border=false&border_color=9D4EDD&border_radius=9&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD"></a>
+  <a align="right" href="https://github.com/FunWolfgun998/RFID-Hero" title="RFID Hero"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=RFID-Hero&theme=dark&hide_border=false&border_color=9D4EDD&border_radius=9&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD"></a>
 </div>
+<br/><br/><br/><br/><br/><br/>
 <h4 align="center">
   <a href="https://github.com/FunWolfgun998?tab=repositories" title="Show Repositories" style="color: #9D4EDD;">🔎 Show More 🔍</a>
 </h4>
