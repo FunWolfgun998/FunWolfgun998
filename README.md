@@ -67,27 +67,28 @@
 <hr>
 
 <h2 align="center" style="color: #9D4EDD;">👨‍💻 Repositories 👨‍💻</h2>
-<div align="center" style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 15px; width: 100%; margin: 0 auto;">
+<div align="center" style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; width: 100%; max-width: 800px; margin: 0 auto;">
   <!-- Prima coppia -->
-  <div style="width: 100%; aspect-ratio: 3/1; overflow: hidden;">
+  <div style="height: 120px;">
     <a href="https://github.com/FunWolfgun998/Wolf" title="Wolf" style="display: block; height: 100%;">
-      <img style="width: 100%; height: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Wolf&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
+      <img style="width: 100%; height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Wolf&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
     </a>
   </div>
-  <div style="width: 100%; aspect-ratio: 3/1; overflow: hidden;">
+  <div style="height: 120px;">
     <a href="https://github.com/FunWolfgun998/RFID-Hero" title="RFID-Hero" style="display: block; height: 100%;">
-      <img style="width: 100%; height: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=RFID-Hero&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
+      <img style="width: 100%; height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=RFID-Hero&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
     </a>
   </div>
-  <!-- Seconda coppia (esempio) -->
-  <div style="width: 100%; aspect-ratio: 3/1; overflow: hidden;">
+
+  <!-- Seconda coppia -->
+  <div style="height: 120px;">
     <a href="https://github.com/FunWolfgun998/Project3" title="Project 3" style="display: block; height: 100%;">
-      <img style="width: 100%; height: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project3&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
+      <img style="width: 100%; height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project3&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
     </a>
   </div>
-  <div style="width: 100%; aspect-ratio: 3/1; overflow: hidden;">
+  <div style="height: 120px;">
     <a href="https://github.com/FunWolfgun998/Project4" title="Project 4" style="display: block; height: 100%;">
-      <img style="width: 100%; height: 100%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project4&theme=react&border_color=9D4EDD&border_radius=10&title_color=9D4EDD">
+      <img style="width: 100%; height: 100%; object-fit: contain;" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Project4&theme=dark&hide_border=true&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD">
     </a>
   </div>
 </div>
