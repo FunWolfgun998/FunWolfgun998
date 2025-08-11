@@ -21,7 +21,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/FunWolfgun998/FunWolfgun998/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: Coming soon...
+  📫 How to reach me: From LinkedIn, other ways coming soon...
 </p>
 
 <hr>
