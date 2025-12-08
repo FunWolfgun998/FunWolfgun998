@@ -13,19 +13,19 @@
 <p align="center">
   Hi, I'm FunWolfgun, Software Developer from Italy
   <br>
-  🔬 I'm currently studying at ITIS Rossi VI
+  I'm currently studying to become a programmer at ITIS Rossi, Italy
   <br>
-  💻 I love writing code and learn anythings about it
+  Coding for me is the power that make you enable to create anything that you want.
   <br>
-  📚 I'm currently learning how to build a compiler for my programming language
+  I'm currently learning how to desing and build a compiler so I can create my programming language.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/FunWolfgun998/FunWolfgun998/issues" title="Issues">Here</a>
+  If you have a questio fell free to ask from <a href="https://github.com/FunWolfgun998/FunWolfgun998/issues" title="Issues">here</a>
   <br>
-  📫 How to reach me: From LinkedIn, other ways coming soon...
+  If you want to reach me you can use LinkedIn, other ways i still a work in progress...
 </p>
 
 <hr>
-<h2 align="center" style="color: #9D4EDD;">🔥 Languages, Tools & Abilities 🔥</h2>
+<h2 align="center" style="color: #9D4EDD;">What I use and know</h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
@@ -42,7 +42,7 @@
 </p>
 <hr>
 
-<h2 align="center" style="color: #9D4EDD;">⚡ Stats ⚡</h2>
+<h2 align="center" style="color: #9D4EDD;">So far I did ...</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -53,25 +53,23 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=FunWolfgun998&show_icons=true&theme=dark&border_color=9D4EDD&hide_border=false&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFFFFF" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
   <div align=center>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunWolfgun998&hide=c%23,Objective-C,Objective-C%2b%2b,Cuda&title_color=9D4EDD&text_color=ffffff&icon_color=9D4EDD&bg_color=1A0933&langs_count=8&layout=compact&border_color=9D4EDD&hide_border=true&size_weight=0.5&count_weight=0.5" />
-</a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunWolfgun998&hide=c%23,Objective-C,Objective-C%2b%2b,Cuda&title_color=9D4EDD&text_color=ffffff&icon_color=9D4EDD&bg_color=1A0933&langs_count=8&layout=compact&border_color=9D4EDD&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
   </div>
   <br>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FunWolfgun998&theme=react-dark&bg_color=1A0933&hide_border=true&color=9D4EDD&line=9D4EDD&point=C77DFF" width="100%"/>
 </p>
 
 <hr>
 
-<h2 align="center" style="color: #9D4EDD;">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center" style="color: #9D4EDD;">My projects and work in progress</h2>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/FunWolfgun998/Wolf" title="Wolf"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Wolf&theme=dark&hide_border=false&border_color=9D4EDD&border_radius=9&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD"></a>
   <a align="right" href="https://github.com/FunWolfgun998/RFID-Hero" title="RFID Hero"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=RFID-Hero&theme=dark&hide_border=false&border_color=9D4EDD&border_radius=9&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <h4 align="center">
-  <a href="https://github.com/FunWolfgun998?tab=repositories" title="Show Repositories" style="color: #9D4EDD;">🔎 Show More 🔍</a>
+  <a href="https://github.com/FunWolfgun998?tab=repositories" title="Show Repositories" style="color: #9D4EDD;">Here there is more to see! (I hope XD)</a>
 </h4>
