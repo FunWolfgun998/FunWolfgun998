@@ -2,13 +2,9 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Here+FunWolfgun!;Nice+to+meet+you!&center=true&size=30&color=9D4EDD&vCenter=true&width=500">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+Here+FunWolfgun!;Nice+to+meet+you!&center=true&size=30&color=9D4EDD&vCenter=true&width=500">
   </a>
 </h1>
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/cristian-borsan" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-</h5>
 <br>
 <p>
   Hi, I'm FunWolfgun, Software Developer from Italy
@@ -23,7 +19,10 @@
   <br>
   If you want to reach me you can use LinkedIn, other ways i still a work in progress...
 </p>
-
+<hrX
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/cristian-borsan" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+</h5>
 <hr>
 <h2 align="center" style="color: #9D4EDD;">What I use and know</h2>
 <br>
