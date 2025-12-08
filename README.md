@@ -35,6 +35,7 @@
 <br>
 <hr>
 <h2 align="center" style="color: #9D4EDD;">So far I did ...</h2>
+<!--
 <br>
 <p align=center>
   <div align=center>
@@ -43,6 +44,8 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=FunWolfgun998&show_icons=true&theme=dark&border_color=9D4EDD&hide_border=false&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFFFFF" />
     </a>
   </div>
+  --!>
+  
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FunWolfgun998&hide=c%23,Objective-C,Objective-C%2b%2b,Cuda&title_color=9D4EDD&text_color=ffffff&icon_color=9D4EDD&bg_color=1A0933&langs_count=8&layout=compact&border_color=9D4EDD&hide_border=true&size_weight=0.5&count_weight=0.5" />
