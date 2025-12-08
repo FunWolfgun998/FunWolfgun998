@@ -19,12 +19,11 @@
   <br>
   If you want to reach me you can use LinkedIn, other ways i still a work in progress...
 </p>
-<hrX
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/cristian-borsan" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-</h5>
 <hr>
-<h2 align="center" style="color: #9D4EDD;">What I use and know</h2>
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/cristian-borsan" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"></a></code>
+</h5>
+<h2 align="center" style="color: #9D4EDD;">What I use and know well enough</h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
