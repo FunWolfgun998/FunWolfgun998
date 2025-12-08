@@ -19,10 +19,10 @@
   <br>
   If you want to reach me you can use LinkedIn, other ways i still a work in progress...
 </p>
-<hr>
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/cristian-borsan" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"></a></code>
 </h5>
+<hr>
 <h2 align="center" style="color: #9D4EDD;">What I use and know well enough</h2>
 <br>
 <p align="center">
@@ -38,8 +38,9 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
 </p>
+<br>
+<br>
 <hr>
-
 <h2 align="center" style="color: #9D4EDD;">So far I did ...</h2>
 <br>
 <p align=center>
