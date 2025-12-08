@@ -10,7 +10,7 @@
   <code><a href="https://www.linkedin.com/in/cristian-borsan" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
-<p align="center">
+<p>
   Hi, I'm FunWolfgun, Software Developer from Italy
   <br>
   I'm currently studying to become a programmer at ITIS Rossi, Italy
@@ -19,7 +19,7 @@
   <br>
   I'm currently learning how to desing and build a compiler so I can create my programming language.
   <br>
-  If you have a questio fell free to ask from <a href="https://github.com/FunWolfgun998/FunWolfgun998/issues" title="Issues">here</a>
+  If you have a questio fell free to ask from <a href="https://github.com/FunWolfgun998/FunWolfgun998/issues" title="（• ˕ •マ">here!</a>
   <br>
   If you want to reach me you can use LinkedIn, other ways i still a work in progress...
 </p>
