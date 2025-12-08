@@ -13,17 +13,15 @@
   <br>
   Coding for me is the power that make you enable to create anything that you want.
   <br>
-  I'm currently learning how to desing and build a compiler so I can create my programming language.
+  I'm currently learning how to design and build a compiler so I can create it for my programming language WOLF.
   <br>
-  If you have a questio fell free to ask from <a href="https://github.com/FunWolfgun998/FunWolfgun998/issues" title="（• ˕ •マ">here!</a>
+  If you have a questions fell free to ask from <a href="https://github.com/FunWolfgun998/FunWolfgun998/issues" title="（• ˕ •マ">here!</a>
   <br>
-  If you want to reach me you can use LinkedIn, other ways i still a work in progress...
+  If you want to reach me you can use LinkedIn, other ways are still a work in progress...
 </p>
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/cristian-borsan" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"></a></code>
-</h5>
+  <a href="https://www.linkedin.com/in/cristian-borsan" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"></a>
 <hr>
-<h2 align="center" style="color: #9D4EDD;">What I use and know well enough</h2>
+<h2 align="center" style="color: #9D4EDD;">What I use and know </h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
@@ -36,9 +34,7 @@
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
 </p>
-<br>
 <br>
 <hr>
 <h2 align="center" style="color: #9D4EDD;">So far I did ...</h2>
