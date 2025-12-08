@@ -1,9 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FunWolfgun998.FunWolfgun998">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!;Here+FunWolfgun's GITHUB!;Nice+to+meet+you!&center=true&size=30&color=9D4EDD&vCenter=true&width=500">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1500&pause=2000&color=9D4EDD&width=435&lines=Hello!+Here+FunWolfgun's+GITHUB!;Hope+you+find+what+are+searching!" alt="Typing SVG" /></a>
 </h1>
 <br>
 <p>
