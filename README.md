@@ -21,7 +21,9 @@
 <h2 align="center" style="color: #9D4EDD;">What I use and know </h2>
 <br>
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,git,vscode,visualstudio,github)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,git,vscode,visualstudio,github" />
+  </a>
 </p>
 <br>
 <hr>
