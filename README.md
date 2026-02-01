@@ -49,7 +49,7 @@
 </p>
 
 <hr>
-
+<!--
 <h2 align="center" style="color: #9D4EDD;">My projects and work in progress</h2>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/FunWolfgun998/Wolf" title="Wolf"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=FunWolfgun998&repo=Wolf&theme=dark&hide_border=false&border_color=9D4EDD&border_radius=9&bg_color=1A0933&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD"></a>
@@ -59,3 +59,4 @@
 <h4 align="center">
   <a href="https://github.com/FunWolfgun998?tab=repositories" title="Show Repositories" style="color: #9D4EDD;">Here there is more to see! (I hope XD)</a>
 </h4>
+a--!>
