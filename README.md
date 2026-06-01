@@ -24,14 +24,14 @@
   <!-- Languages -->
   <p style="color: #9D4EDD; font-weight: bold;"><b>Languages</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css,md" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css" />
   </a>
   <br><br>
 
   <!-- Tools & Systems -->
   <p style="color: #9D4EDD; font-weight: bold;">Tools & Systems</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,godot,git,github,docker,bash,arch" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,git,github,docker,bash,godot,unity,opencv" />
   </a>
   <br><br>
 
