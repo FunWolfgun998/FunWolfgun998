@@ -18,13 +18,30 @@
 </p>
   <a href="https://www.linkedin.com/in/cristian-borsan" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"></a>
 <hr>
-<h2 align="center" style="color: #9D4EDD;">What I use and know </h2>
-<br>
-<p align="center">
+<h2 align="center" style="color: #9D4EDD;">What I use and know</h2>
+
+<div align="center">
+  <!-- Languages -->
+  <p style="color: #9D4EDD; font-weight: bold;"><b>Languages</p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,git,github,clion,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,html,css,md" />
   </a>
-</p>
+  <br><br>
+
+  <!-- Tools & Systems -->
+  <p style="color: #9D4EDD; font-weight: bold;">Tools & Systems</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,godot,git,github,docker,bash,arch" />
+  </a>
+  <br><br>
+
+  <!-- Development & Productivity -->
+  <p style="color: #9D4EDD; font-weight: bold;">Development & Productivity</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscodium,clion,pycharm,obsidian" />
+  </a>
+</div>
+
 <br>
 <hr>
 <h2 align="center" style="color: #9D4EDD;">So far I did ...</h2>
