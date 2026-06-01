@@ -17,7 +17,7 @@
   If you want to reach me you can use LinkedIn, other ways are still a work in progress...
 </p>
   <a href="https://www.linkedin.com/in/cristian-borsan" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"></a>
-<hr>
+
 <h2 align="center" style="color: #9D4EDD;">What I use and know</h2>
 
 <div align="center">
@@ -43,7 +43,6 @@
 </div>
 
 <br>
-<hr>
 <h2 align="center" style="color: #9D4EDD;">So far I did ...</h2>
 <!--
 <br>
