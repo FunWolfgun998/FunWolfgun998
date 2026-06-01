@@ -10,7 +10,7 @@
   <br>
   Coding for me is the power that make you enable to create anything that you want.
   <br>
-  I'm currently learning how to design and build a compiler so I can create it for my programming language WOLF.
+  I'm currently learning how to design and build a compiler for my programming language WOLF.
   <br>
   If you have a questions fell free to ask from <a href="https://github.com/FunWolfgun998/FunWolfgun998/issues" title="（• ˕ •マ">here!</a>
   <br>
